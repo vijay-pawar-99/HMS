@@ -1,0 +1,22 @@
+# PHP-related
+vendor/
+.env
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database dumps (optional)
+*.sql
+
+# IDEs/editors
+.idea/
+.vscode/
+
+# Node (in case you add later)
+node_modules/
+
